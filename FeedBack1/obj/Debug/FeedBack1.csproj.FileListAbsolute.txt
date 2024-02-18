@@ -1,0 +1,10 @@
+C:\Users\dceju\source\repos\FeedBack1\FeedBack1\bin\Debug\FeedBack1.exe.config
+C:\Users\dceju\source\repos\FeedBack1\FeedBack1\bin\Debug\FeedBack1.exe
+C:\Users\dceju\source\repos\FeedBack1\FeedBack1\bin\Debug\FeedBack1.pdb
+C:\Users\dceju\source\repos\FeedBack1\FeedBack1\obj\Debug\FeedBack1.csproj.AssemblyReference.cache
+C:\Users\dceju\source\repos\FeedBack1\FeedBack1\obj\Debug\FeedBack1.Form1.resources
+C:\Users\dceju\source\repos\FeedBack1\FeedBack1\obj\Debug\FeedBack1.Properties.Resources.resources
+C:\Users\dceju\source\repos\FeedBack1\FeedBack1\obj\Debug\FeedBack1.csproj.GenerateResource.cache
+C:\Users\dceju\source\repos\FeedBack1\FeedBack1\obj\Debug\FeedBack1.csproj.CoreCompileInputs.cache
+C:\Users\dceju\source\repos\FeedBack1\FeedBack1\obj\Debug\FeedBack1.exe
+C:\Users\dceju\source\repos\FeedBack1\FeedBack1\obj\Debug\FeedBack1.pdb
